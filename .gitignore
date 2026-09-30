@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+secrets/
+client_secret*.json
+token*.json
+credentials*.json
+*.db
+*.db-*
+*.xlsx
+*.log
+.DS_Store
